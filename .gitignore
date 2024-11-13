@@ -2,13 +2,15 @@
 
 
 
-./npm-debug.log
+npm-debug.log
 
-./configData.js
+configData.js
 
-./package-lock.json
+package-lock.json
 
 package.json
+
+.env
 
 babel.config.js
 
