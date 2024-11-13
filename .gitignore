@@ -1,8 +1,17 @@
 
-node_modules/
+
+
 
 npm-debug.log
 
-dist/
-
 src/configData.js
+
+src/package-lock.json
+
+src/package.json
+
+babel.config.js
+
+src/.gitignore
+
+src/node_modules
