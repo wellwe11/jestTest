@@ -4,14 +4,14 @@
 
 npm-debug.log
 
-src/configData.js
+configData.js
 
-src/package-lock.json
+package-lock.json
 
-src/package.json
+package.json
 
 babel.config.js
 
-src/.gitignore
+.gitignore
 
-src/node_modules
+node_modules
